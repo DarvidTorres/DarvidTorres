@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darvidtorres" alt="darvidtorres" /></a> </p>
 
-- 🔭 I’m currently studying [Computer Science Foundations at Holberton School](https://github.com/DarvidTorres/holbertonschool-higher_level_programming)
-
+- 💡 I'm an avid learner with interest in Mathematics, Compuer Science and Finance
+- 🎓 I’m currently studying Computer Science Foundations at Holberton School
 - ⚡ Fun fact **I play the guitar and like working out**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: darvid.torres@gmail.com</h3>
 <p align="left">
 <a href="https://linkedin.com/in/darvidtorres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darvidtorres" height="30" width="40" /></a>
 </p>
